@@ -1,0 +1,1 @@
+global contexts (Auth,Theme,etc)
